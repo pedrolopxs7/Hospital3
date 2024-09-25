@@ -1,0 +1,7 @@
+D:\C#\ProjetoHospital\ProjetoHospital\bin\Debug\ProjetoHospital.exe.config
+D:\C#\ProjetoHospital\ProjetoHospital\bin\Debug\ProjetoHospital.exe
+D:\C#\ProjetoHospital\ProjetoHospital\bin\Debug\ProjetoHospital.pdb
+D:\C#\ProjetoHospital\ProjetoHospital\obj\Debug\ProjetoHospital.csproj.AssemblyReference.cache
+D:\C#\ProjetoHospital\ProjetoHospital\obj\Debug\ProjetoHospital.csproj.CoreCompileInputs.cache
+D:\C#\ProjetoHospital\ProjetoHospital\obj\Debug\ProjetoHospital.exe
+D:\C#\ProjetoHospital\ProjetoHospital\obj\Debug\ProjetoHospital.pdb
